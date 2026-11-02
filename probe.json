@@ -1,0 +1,5 @@
+{
+  "purpose": "Check native Pages routing across GitHub organizations",
+  "test": "sunshinestream-pages-domain-test-20261101-01a18004",
+  "repository": "SunshineStream/pages-domain-test-20261101"
+}
